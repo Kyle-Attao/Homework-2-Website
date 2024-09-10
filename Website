@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cafes On Saipan</title>
+</head>
+<body>
+    
+     <ul>
+        <li><a href="default.asp">Home</a></li>
+        <li><a href="Navigation.asp">Navigation</a></li>
+        <li><a href="about.asp">About</a></li>
+      </ul>
+   <hr> 
+   <h1>Cafes on Saipan</h1>
+    <div>Some of the more notable, fan favorite Cafes and coffee shops Across Saipan</div>
+    <br>
+    <p><b>Some Fan Favorites</b></p>
+    <ol>
+        <li>Cafe Mango Six</li>
+        <li>Cafe 670</li>
+        <li>Zoom Cafe</li>
+        <li>Marianas Creations</li>
+        <li>Shoreside Cafe</li>
+    </ol>
+<p><b>Cafe Mango Six - Chalan Monsignour Guerrero</b></p>
+<img src="https://media-cdn.tripadvisor.com/media/photo-s/0f/bc/e0/62/20170701-190105-largejpg.jpg" alt="Mango Six">
+<p><b>Cafe Mango Six</b> Serves excellent coffee and is one of my favorite places to get fries and on occassion a bagel or burger. The atmosphere is welcoming, the staff are friendly, and the tables are clean.</p>
+<P><b>Why I Love Mango Six:</b></P>
+<ul>
+    <li>Good Service and a clean environment</li>
+    <li>Welcoming Community Area</li>
+    <li>Excellent food and drinks</li>
+</ul>
+    <hr>
+    <p>Kyle Attao</p>
+    <p>kyle.attao@my.marianas.edu</p>
+    <p>(670) 287-5933</p>
+</body>
+</html>
